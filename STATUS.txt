@@ -21,7 +21,10 @@ Mailing Lists:
 
 Active Committers
 =================
+* Davyd McColl (davydm)
 
+Former Committers
+================
 * Nicko Cadell (nicko)
 * Niall Daley (niall)
 * Gert Driesen (drieseng)
